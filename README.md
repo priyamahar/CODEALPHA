@@ -8,7 +8,7 @@ Duration: One Month
 This repository contains all the projects and task completed during the **CodeAlpha python programming Internship program**
 
 # Project Overview
-# 1. Stock Portfolio  
+# 1. Stock Portfolio Tracker    
 A simple Python project to calculate total investment value using stock prices and quantities.It uses dictionaries, user input, and basic calculations.  
 
 # 2. Task Automation with Python Scripts  
