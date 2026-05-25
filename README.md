@@ -1,7 +1,7 @@
 # CODEALPHA
 # CodeAlpha Python Programming Internship- Projects
-Intern: Priya Mahar
-Domain: Python Programming
+Intern: Priya Mahar  
+Domain: Python Programming  
 Duration: One Month
  
 # About
