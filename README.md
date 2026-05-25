@@ -15,4 +15,4 @@ This project is a simple text-based Hangman Game devloped using python. Players 
 A simple Python project to calculate total investment value using stock prices and quantities.It uses dictionaries, user input, and basic calculations.  
 
 # 3.Basic Chatbot  
-This project is a simple rule-based chatbot built using Python.The chatbo responds to basic user inputs like greetings and simple conversations using if-elif conditions and loops.
+This project is a simple rule-based chatbot built using Python.The chatbot responds to basic user inputs like greetings and simple conversations using if-elif conditions and loops.
